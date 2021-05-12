@@ -41,4 +41,5 @@ if [[ ${testnet} == "true" ]]; then
   fi
 fi
 
-while true; do sleep 30; done;
+#while true; do sleep 30; done;
+bash
